@@ -1,0 +1,6 @@
+{
+  "name": "@alami/http-client",
+  "version": "1.0.0",
+  "description": "alami http client",
+  "main": "index.js"
+}

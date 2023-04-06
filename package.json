@@ -1,0 +1,10 @@
+{
+  "name": "monorepo-explore",
+  "private": true,
+  "version": "1.0.0",
+  "description": "exploring monoropo",
+  "main": "index.js",
+  "workspaces": [
+    "./packages/*"
+  ]
+}
